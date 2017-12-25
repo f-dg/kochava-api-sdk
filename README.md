@@ -31,7 +31,7 @@ or via composer.json
 
 ```json
   "require": {
-    "asignal/kochava-api-sdk": "dev-master"
+    "f-dg/kochava-api-sdk": "dev-master"
   },
 ```
 
