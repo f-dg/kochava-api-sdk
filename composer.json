@@ -1,0 +1,22 @@
+{
+    "name": "f-dg/kochava-api-sdk",
+    "description": "PHP SDK for Kochava API",
+    "authors": [
+        {
+            "name": "Firsov Dmitry",
+            "skype": "jupiterfdg"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev" : {
+        "phpunit/phpunit": ">=6.1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "KochavaReporting\\": "src/"
+        }
+    }
+}
